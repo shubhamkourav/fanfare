@@ -1,0 +1,173 @@
+{
+  "main": [
+    {
+      "id": "home",
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "id": "about",
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "id": "blog",
+      "name": "Blog",
+      "url": "/blog"
+    },
+    {
+      "id": "how-it-work",
+      "name": "How It Work",
+      "url": "/how-it-work"
+    },
+    {
+      "id": "pages",
+      "name": "Pages",
+      "sub_menu": [
+        {
+          "id": "career",
+          "name": "Career",
+          "url": "/career"
+        },
+        {
+          "id": "career-single",
+          "name": "Career Single",
+          "url": "/career-single"
+        },
+        {
+          "id": "integrations",
+          "name": "Integrations",
+          "url": "/integrations"
+        },
+        {
+          "id": "integration-single",
+          "name": "Integration Single",
+          "url": "/integration-single"
+        },
+        {
+          "id": "pricing",
+          "name": "Pricing",
+          "url": "/pricing"
+        },
+        {
+          "id": "terms-conditions",
+          "name": "Terms & Conditions",
+          "url": "/terms"
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "url": "/contact"
+    },{
+        "id": "signup",
+        "name": "Sign In Now",
+        "type": "button",
+        "url": "/signin"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Company",
+      "menu": [
+        {
+          "text": "About",
+          "url": "#"
+        },
+        {
+          "text": "Careers",
+          "url": "#"
+        },
+        {
+          "text": "Brand Center",
+          "url": "#"
+        },
+        {
+          "text": "Blog",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Help Center",
+      "menu": [
+        {
+          "text": "Discord Server",
+          "url": "#"
+        },
+        {
+          "text": "Twitter",
+          "url": "#"
+        },
+        {
+          "text": "Facebook",
+          "url": "#"
+        },
+        {
+          "text": "Contact Us",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Legal",
+      "menu": [
+        {
+          "text": "Privacy Policy",
+          "url": "#"
+        },
+        {
+          "text": "Licensing",
+          "url": "#"
+        },
+        {
+          "text": "Terms",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Company",
+      "menu": [
+        {
+          "text": "About",
+          "url": "#"
+        },
+        {
+          "text": "Careers",
+          "url": "#"
+        },
+        {
+          "text": "Brand Center",
+          "url": "#"
+        },
+        {
+          "text": "Blog",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Download",
+      "menu": [
+        {
+          "text": "iOS",
+          "url": "#"
+        },
+        {
+          "text": "Android",
+          "url": "#"
+        },
+        {
+          "text": "Windows",
+          "url": "#"
+        },
+        {
+          "text": "MacOS",
+          "url": "#"
+        }
+      ]
+    }
+  ]
+}

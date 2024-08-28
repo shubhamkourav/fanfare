@@ -1,0 +1,28 @@
+<svg viewBox="0 0 122 32" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paint0_linear_34_186" x1="0.01" x2="0.01" y1="0" y2="0.98">
+      <stop stop-color="#FA709A"/>
+      <stop offset="1" stop-color="#FEE140"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_34_186" x1="0.01" x2="0.01" y1="0" y2="0.98">
+      <stop stop-color="#FA709A"/>
+      <stop offset="1" stop-color="#FEE140"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear_34_186" x1="0.01" x2="0.01" y1="0" y2="0.98">
+      <stop stop-color="#FA709A"/>
+      <stop offset="1" stop-color="#FEE140"/>
+    </linearGradient>
+    <linearGradient id="paint3_linear_34_186" x1="0.01" x2="0.01" y1="0" y2="0.98">
+      <stop stop-color="#FA709A"/>
+      <stop offset="1" stop-color="#FEE140"/>
+    </linearGradient>
+  </defs>
+  <g class="layer">
+    <title>Layer 1</title>
+    <path d="m16.46,20.6c-1.35,-1.36 -2.1,-3.16 -2.1,-5.08l0,-0.23l15.55,0l0,0.23c0,3.96 -3.23,7.18 -7.19,7.18l-1.17,0c-1.92,0 -3.73,-0.75 -5.09,-2.1z" fill="url(#paint0_linear_34_186)" id="svg_9"/>
+    <path d="m0,16.26c0,-1.92 0.75,-3.72 2.1,-5.08c1.36,-1.36 3.17,-2.11 5.09,-2.11l1.17,0c1.92,0 3.73,0.75 5.08,2.11c1.36,1.36 2.11,3.16 2.11,5.08l0,0.22l-15.55,0l0,-0.22z" fill="url(#paint1_linear_34_186)" id="svg_10"/>
+    <path d="m10.24,28.74c-1.35,-1.36 -2.1,-3.17 -2.1,-5.08l0,-1.18c0,-1.92 0.75,-3.72 2.1,-5.08c1.36,-1.36 3.17,-2.11 5.08,-2.11l0.23,0l0,15.55l-0.23,0c-1.91,0 -3.72,-0.75 -5.08,-2.1z" fill="url(#paint2_linear_34_186)" id="svg_11"/>
+    <path d="m14.36,0.93l0.22,0c1.92,0 3.73,0.75 5.08,2.11c1.36,1.36 2.11,3.16 2.11,5.08l0,1.18c0,3.96 -3.23,7.18 -7.19,7.18l-0.22,0l0,-15.55z" fill="url(#paint3_linear_34_186)" id="svg_12"/>
+    <text fill="#000000" font-family="Sans-serif" font-size="25" font-weight="bold" id="svg_13" lengthAdjust="spacing" letter-spacing="0" stroke-width="0" text-anchor="middle" textLength="0" word-spacing="0" x="77" xml:space="preserve" y="24">Fanfare</text>
+  </g>
+</svg>

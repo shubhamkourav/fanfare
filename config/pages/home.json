@@ -1,0 +1,93 @@
+{
+  "banner": {
+    "title": "Scale design & dev operations with Our Enterprise",
+    "description": "A fully integrated suite of authentication & authorize products, Stytch's platform removes the headache of.",
+    "images": {
+      "inner": {
+        "url": "/images/banner-img.png",
+        "alt": "Fanfare banner"
+      },
+      "outer": {
+        "url": "/images/banner-shape.svg",
+        "alt": "Fanfare banner shape"
+      }
+    },
+    "button_text": "Contact us",
+    "button_url": "https://github.com/shubhamkourav"
+  },
+  "features": {
+    "title": "The Highlighting Part Of Our Solution",
+    "description": "Our solution excels with its seamless integration, user-friendly design, and advanced analytics powered by AI, delivering efficiency and growth. It’s a comprehensive, scalable platform tailored to meet evolving client needs",
+    "images": {
+      "shape": {
+        "url": "/images/icons/feature-shape.svg",
+        "alt": "Fanfare feature image"
+      }
+    },
+    "list": [
+      {
+        "title": "Authentication & Authorization",
+        "description": "Stylistically designed for your team's needs, with features like multi-factor authentication, role-based access control, and user management.",
+        "icon": "/images/icons/secure.svg"
+      },
+      {
+        "title": "Stylistic Design",
+        "description": "Stylish and responsive, ensuring your team feels confident and efficient while using our products.",
+        "icon": "/images/icons/design.svg"
+      },
+      {
+        "title": "DevOps & CI/CD",
+        "description": "Automate your development workflows, ensuring consistency and reliability, with features like CI/CD pipelines, automated testing, and monitoring.",
+        "icon": "/images/icons/devops.svg"
+      },
+      {
+        "title": "AI-Powered Analytics",
+        "description": "Gain insights into your team's performance, trends, and areas for improvement, with features like real-time analytics, customizable dashboards, and machine learning.",
+        "icon": "/images/icons/ai.svg"
+      },
+      {
+        "title": "Customizable & Scalable",
+        "description": "Stylistically designed for your team's needs, with features like multi-factor authentication, role-based access control, and user management.",
+        "icon": "/images/icons/customize-scalable.svg"
+      },
+      {
+        "title": "Secure & Compliant",
+        "description": "Our solution ensures data protection and regulatory compliance through advanced security measures.",
+        "icon": "/images/icons/safe.svg"
+      },
+      {
+        "title": "Scalable & Maintainable",
+        "description": "Our solution is designed for easy scalability and long-term maintenance, adapting effortlessly as your needs grow.",
+        "icon": "/images/icons/manage.svg"
+      },
+      {
+        "title": "Community & Support",
+        "description": "A collaborative space where developers connect, share knowledge, and seek assistance to enhance their skills and resolve challenges.",
+        "icon": "/images/icons/community.svg"
+      }
+    ]
+  },
+  "services": {
+    "first_service": {
+      "title": "Prevent failure from to impacting your reputation",
+      "description": "Our platform helps you build secure onboarding authentication experiences that retain and engage your users. We build the infrastructure, you can.",
+      "list": [
+        {
+          "icon": "/images/icons/drop.svg",
+          "text": "Habit building essential choose habit",
+          "image": "/images/sells-by-country.png"
+        },
+        {
+          "icon": "/images/icons/brain.svg",
+          "text": "Get an overview of Habit Calendars.",
+          "image": "/images/collaboration.png"
+        },
+        {
+          "icon": "/images/icons/timer.svg",
+          "text": "Start building with Habitify platform",
+          "image": "/images/sells-by-country.png"
+        }
+      ]
+    }
+  }
+}

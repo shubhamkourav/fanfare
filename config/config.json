@@ -1,0 +1,29 @@
+{
+  "site": {
+    "title": "Fanfare",
+    "base_url": "/",
+    "favicon": "/images/favicon.ico",
+    "theme_color": "#fff",
+    "background_color": "#000",
+    "display": "standalone"
+  },
+  "metadata": {
+    "title": "Fanfare - Tailwind CSS Landing Page",
+    "description": "Fanfare is a highly customizable multipurpose SaaS theme built with TailwindCSS and Next Js",
+    "applicationName": "Fanfare",
+    "authors": [
+      {
+        "name": "Shubham Kumar",
+        "url": "https://github.com/shubhamkourav"
+      }
+    ],
+    "openGraph": {
+      "title": "Fanfare - Tailwind CSS Landing Page",
+      "site_name": "Lander",
+      "description": "Fanfare is a highly customizable multipurpose SaaS theme built with TailwindCSS and Next Js",
+      "type": "website",
+      "image": ""
+    },
+    "language": "en"
+  }
+}
