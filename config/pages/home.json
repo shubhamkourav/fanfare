@@ -88,6 +88,59 @@
           "image": "/images/sells-by-country.png"
         }
       ]
+    },
+    "second_service":{
+        "title": "Accept payments any country in this whole universe",
+        "description": "Effortlessly accept payments from any country in the universe, enabling global transactions without boundaries. Expand your reach and grow your business with seamless, universal payment integration.",
+        "icon":{
+            "url": "/images/shape.svg",
+            "alt": "Fanfare Illustration"
+        },
+        "image":{
+            "url": "/images/collaboration.png",
+            "alt": "Collaboration"
+        },
+        "list":[{
+            "icon": "/images/icons/checkmark-circle.svg",
+            "text": "Easily integrate payment gateway"
+        },{
+            "icon": "/images/icons/checkmark-circle.svg",
+            "text": "Accept payments from multiple currencies"
+        },{
+            "icon": "/images/icons/checkmark-circle.svg",
+            "text": "Instantly receive payments"
+        },{
+            "icon": "/images/icons/checkmark-circle.svg",
+            "text": "Accept payments from any country"
+        },{
+            "icon": "/images/icons/checkmark-circle.svg",
+            "text": "Pay with ease and convenience"
+        }]
+    },
+    "third_service":{
+        "title": "Accountability that works for you",
+        "description": "Empower yourself with accountability that aligns with your goals, ensuring consistent progress and personal growth. Our approach adapts to your unique needs, keeping you motivated and on track",
+        "button":{
+            "text": "know about us"
+        },
+        "thumbnail":{
+            "url": "images/intro-thumbnail.png",
+            "alt": "Video thumbnail"
+        },
+        "icon":{
+            "url": "/images/icons/play-icon.svg",
+            "alt": "Video Play Icon"
+        },
+        "video":{
+            "url": "https://www.youtube.com/embed/g3-VxLQO7do?autoplay=1",
+            "alt": "Video",
+            "allowFullScreen":true
+        },
+        "illustration":{
+            "url": "/images/shape.svg",
+            "alt": "Illustration"
+        }
+        
     }
   }
 }
