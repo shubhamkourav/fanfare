@@ -60,114 +60,40 @@
       "id": "contact",
       "name": "Contact",
       "url": "/contact"
-    },{
-        "id": "signup",
-        "name": "Sign In Now",
-        "type": "button",
-        "url": "/signin"
+    },
+    {
+      "id": "signup",
+      "name": "Sign In Now",
+      "type": "button",
+      "url": "/signin"
     }
   ],
-  "footer": [
-    {
-      "name": "Company",
+  "footer": {
+    "social": {
+      "name": "Socials",
+      "mail": "info@fanfare.com",
       "menu": [
         {
-          "text": "About",
+          "type": "icon",
+          "icon": "/images/icons/social/facebook.svg",
           "url": "#"
         },
         {
-          "text": "Careers",
+          "type": "icon",
+          "icon": "/images/icons/social/twitter.svg",
           "url": "#"
         },
         {
-          "text": "Brand Center",
+          "type": "icon",
+          "icon": "/images/icons/social/linkedin.svg",
           "url": "#"
         },
         {
-          "text": "Blog",
-          "url": "#"
-        }
-      ]
-    },
-    {
-      "name": "Help Center",
-      "menu": [
-        {
-          "text": "Discord Server",
-          "url": "#"
-        },
-        {
-          "text": "Twitter",
-          "url": "#"
-        },
-        {
-          "text": "Facebook",
-          "url": "#"
-        },
-        {
-          "text": "Contact Us",
-          "url": "#"
-        }
-      ]
-    },
-    {
-      "name": "Legal",
-      "menu": [
-        {
-          "text": "Privacy Policy",
-          "url": "#"
-        },
-        {
-          "text": "Licensing",
-          "url": "#"
-        },
-        {
-          "text": "Terms",
-          "url": "#"
-        }
-      ]
-    },
-    {
-      "name": "Company",
-      "menu": [
-        {
-          "text": "About",
-          "url": "#"
-        },
-        {
-          "text": "Careers",
-          "url": "#"
-        },
-        {
-          "text": "Brand Center",
-          "url": "#"
-        },
-        {
-          "text": "Blog",
-          "url": "#"
-        }
-      ]
-    },
-    {
-      "name": "Download",
-      "menu": [
-        {
-          "text": "iOS",
-          "url": "#"
-        },
-        {
-          "text": "Android",
-          "url": "#"
-        },
-        {
-          "text": "Windows",
-          "url": "#"
-        },
-        {
-          "text": "MacOS",
+          "type": "icon",
+          "icon": "/images/icons/social/skype.svg",
           "url": "#"
         }
       ]
     }
-  ]
+  }
 }

@@ -142,5 +142,47 @@
         }
         
     }
+  },
+  "reviews":{
+    "title": "What our clients say",
+    "description": "Hear firsthand testimonials from satisfied customers about their experiences with our services.",
+    "list":[
+      {
+        "name": "John Doe",
+        "designation": "CEO, Company X",
+        "image": "/images/users/user-1.png",
+        "text": "Our experience with this company has been nothing short of outstanding. Their team is highly knowledgeable, responsive, and always ready to go the extra mile to ensure we have everything we need.",
+        "star": 5
+      },{
+        "name": "Sandra T.",
+        "designation": "Project Manager at Stellar Solutions",
+        "image": "/images/users/user-3.png",
+        "text": "Our experience with this company has been nothing short of outstanding. Their team is highly knowledgeable, responsive, and always ready to go the extra mile to ensure we have everything we need.",
+        "star": 4
+      },{
+        "name": "Robert L.",
+        "designation": "Senior Developer, Company Z",
+        "image": "/images/users/user-4.png",
+        "text": "Our experience with this company has been nothing short of outstanding. Their team is highly knowledgeable, responsive, and always ready to go the extra mile to ensure we have everything we need.",
+        "star": 5
+      },{
+        "name": "Emily W.",
+        "designation": "Marketing Manager, Company W",
+        "image": "/images/users/user-5.png",
+        "text": "Our experience with this company has been nothing short of outstanding. Their team is highly knowledgeable, responsive, and always ready to go the extra mile to ensure we have everything we need.",
+        "star": 3
+      },{
+        "name": "David P.",
+        "designation": "Owner of Fresh Fields Market",
+        "image": "/images/users/user-6.png",
+        "text": "Our experience with this company has been nothing short of outstanding. Their team is highly knowledgeable, responsive, and always ready to go the extra mile to ensure we have everything we need.",
+        "star": 5
+      }]
+  },
+  "action":{
+    "title": "Helping teams in the world with focus",
+    "description":"Empowering teams around the world to stay focused and achieve their goals. We provide the tools and strategies needed for effective collaboration and productivity.",
+    "button_text": "Contact Us",
+    "button_url": "https://github.com/shubhamkourav"
   }
 }

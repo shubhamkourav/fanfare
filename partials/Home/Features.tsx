@@ -22,7 +22,7 @@ export default function Features() {
                 <div className="key-feature-grid mt-10 grid grid-cols-2 gap-7 md:grid-cols-3 xl:grid-cols-4">
                     {features.list.map((item, i) => {
                         return (
-                            <div
+                            <div key={i}
                                 className="flex flex-col justify-between rounded-lg bg-white p-5 shadow-lg"
                             >
                                 <div>

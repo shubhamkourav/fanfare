@@ -28,6 +28,7 @@ const config: Config = {
     "./partials/**/*.{js,ts,jsx,tsx,mdx}",
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
+  ist: [{ pattern: /^swiper-/ }],
   theme: {
     screens: {
       sm: "540px",

@@ -2,6 +2,7 @@
   "site": {
     "title": "Fanfare",
     "base_url": "/",
+    "description": "Fanfare is a highly customizable multipurpose SaaS theme built with TailwindCSS and Next Js",
     "favicon": "/images/favicon.ico",
     "theme_color": "#fff",
     "background_color": "#000",
