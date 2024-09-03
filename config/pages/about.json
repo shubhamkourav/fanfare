@@ -1,0 +1,62 @@
+{
+  "common": {
+    "title": "About our company",
+    "description": "Discover the story behind our company and what sets us apart from the competition.",
+    "primary_button": {
+      "text": "Contact Us",
+      "url": "https://github.com/shubhamkourav"
+    },
+    "secondary_button": {
+      "text": "Learn More",
+      "url": "https://github.com/shubhamkourav"
+    },
+    "records": [
+      {
+        "text": "Customers",
+        "value": "25M",
+        "class": "text-blue-500"
+      },
+      {
+        "text": "Products sold",
+        "value": "400M",
+        "class": "text-green-500"
+      },
+      {
+        "text": "Online stores",
+        "value": "10K",
+        "class": "text-yellow-900"
+      },
+      {
+        "text": "Transactions",
+        "value": "50K",
+        "class": "text-primary"
+      }
+    ]
+  },
+  "gallery": {
+    "text": "We started with one single goal Empower entrepreneurs",
+    "images": {
+      "group1": [
+        {
+          "url": "/images/about/gallery-img-1.png",
+          "width": 480,
+          "height": 328
+        },
+        {
+          "url": "/images/about/gallery-img-2.png",
+          "width": 480,
+          "height": 274,
+          "sub_image": "/images/shape.svg",
+          "sub_image_class": "absolute -bottom-4 -left-4 -z-[1]"
+        }
+      ],
+      "group2":[ {
+        "url": "/images/about/gallery-img-3.png",
+        "width": 480,
+        "height": 540,
+        "sub_image": "/images/shape-2.svg",
+        "sub_image_class": "absolute -bottom-4 -right-5 -z-[1] h-16 w-16"
+      }]
+    }
+  }
+}

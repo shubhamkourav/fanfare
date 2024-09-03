@@ -21,6 +21,7 @@
     "paths": {
       "@config/*": ["config/*"],
       "@partials/*": ["partials/*"],
+      "@utils/*": ["utils/*"],
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],

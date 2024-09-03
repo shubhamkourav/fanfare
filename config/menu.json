@@ -16,6 +16,11 @@
       "url": "/blog"
     },
     {
+      "id": "features",
+      "name": "Features",
+      "url": "/features"
+    },
+    {
       "id": "how-it-work",
       "name": "How It Work",
       "url": "/how-it-work"
