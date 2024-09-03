@@ -13,12 +13,12 @@
     "records": [
       {
         "text": "Customers",
-        "value": "25M",
+        "value": "10M",
         "class": "text-blue-500"
       },
       {
         "text": "Products sold",
-        "value": "400M",
+        "value": "100M",
         "class": "text-green-500"
       },
       {
@@ -28,7 +28,7 @@
       },
       {
         "text": "Transactions",
-        "value": "50K",
+        "value": "30K",
         "class": "text-primary"
       }
     ]
@@ -50,13 +50,117 @@
           "sub_image_class": "absolute -bottom-4 -left-4 -z-[1]"
         }
       ],
-      "group2":[ {
-        "url": "/images/about/gallery-img-3.png",
-        "width": 480,
-        "height": 540,
-        "sub_image": "/images/shape-2.svg",
-        "sub_image_class": "absolute -bottom-4 -right-5 -z-[1] h-16 w-16"
-      }]
+      "group2": [
+        {
+          "url": "/images/about/gallery-img-3.png",
+          "width": 480,
+          "height": 540,
+          "sub_image": "/images/shape-2.svg",
+          "sub_image_class": "absolute -bottom-4 -right-5 -z-[1] h-16 w-16"
+        }
+      ]
     }
+  },
+  "works": {
+    "title": "The six core work drive everything do",
+    "button": {
+      "text": "Read more",
+      "url": "https://github.com/shubhamkourav"
+    },
+    "cards": [
+      {
+        "title": "Accessibility",
+        "description": "Accessibility refers to the design and implementation of products, services, and environments that are usable and inclusive for people of all abilities and disabilities.",
+        "id": "01"
+      },
+      {
+        "title": "Customer service",
+        "description": "Customer service is the provision of timely, courteous, and professional assistance to customers, ensuring that they feel heard, understood, and valued.",
+        "id": "02"
+      },
+      {
+        "title": "Innovation",
+        "description": "Innovation is the process of creating, developing, and maintaining new products, services, processes, or technologies to meet changing market needs.",
+        "id": "03"
+      },
+      {
+        "title": "Quality",
+        "description": "Quality is the attribute of a product, service, or process that indicates how closely it meets the desired standards, expectations, or requirements.",
+        "id": "04"
+      },
+      {
+        "title": "Resilience",
+        "description": "Resilience is the ability of a system, component, or individual to withstand or recover from failures, disruptions, or other adverse conditions.",
+        "id": "05"
+      },
+      {
+        "title": "Sustainability",
+        "description": "Sustainability is the ability of a product, service, or system to be maintained, developed, or used in a way that benefits the environment and the environmental community.",
+        "id": "06"
+      }
+    ]
+  },
+  "members": {
+    "title": "Meet our team",
+    "content": "Our team is a diverse group of passionate professionals committed to excellence and collaboration.",
+    "peoples": [
+      {
+        "name": "John Doe",
+        "position": "Founder & CEO",
+        "image": "/images/users/user-1.png",
+        "social_media": {
+          "twitter": "johndoe",
+          "linkedin": "johndoe",
+          "skype": "johndoe"
+        }
+      },
+      {
+        "name": "Jane Smith",
+        "position": "Marketing & Sales Manager",
+        "image": "/images/users/user-2.png",
+        "social_media": {
+          "twitter": "janesmith",
+          "skype": "janesmith",
+          "linkedin": "janesmith"
+        }
+      },
+      {
+        "name": "Mark Johnson",
+        "position": "Product Manager",
+        "image": "/images/users/user-3.png",
+        "social_media": {
+          "twitter": "markjohnson",
+          "skype": "markjohnson",
+          "linkedin": "markjohnson"
+        }
+      },{
+        "name": "Sarah Wilson",
+        "position": "Frontend Developer",
+        "image": "/images/users/user-4.png",
+        "social_media": {
+          "twitter": "sarahwilson",
+          "skype": "sarahwilson",
+          "linkedin": "sarahwilson"
+        }
+      },{
+        "name": "Mike Brown",
+        "position": "Backend Developer",
+        "image": "/images/users/user-5.png",
+        "social_media": {
+          "twitter": "mikebrown",
+          "skype": "mikebrown",
+          "linkedin": "mikebrown"
+        }
+      },{
+        "name": "Emily Davis",
+        "position": "UX/UI Designer",
+        "image": "/images/users/user-6.png",
+        "social_media": {
+          "twitter": "emilydavis",
+          "skype": "emilydavis",
+          "linkedin": "emilydavis"
+        }
+      }
+    ]
   }
 }
