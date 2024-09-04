@@ -361,7 +361,7 @@
   //featured-posts
   .featured-posts {
     .card {
-      @apply items-center lg:flex;
+      @apply lg:flex;
   
       &-img {
         @apply max-h-[210px] w-full self-stretch rounded-md object-cover lg:max-h-full lg:max-w-[40%] xl:max-w-[235px];
@@ -373,6 +373,14 @@
   
       &-content {
         @apply lg:py-6 lg:pl-5;
+
+        & > p {
+          @apply overflow-hidden text-ellipsis;
+          display: -webkit-box;
+          line-clamp: 4;
+          -webkit-line-clamp: 4;
+          -webkit-box-orient: vertical;
+        }
       }
   
       &-tags {

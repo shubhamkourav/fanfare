@@ -1,0 +1,149 @@
+{
+    "title": "Insight and advice from our expert team",
+    "featured_posts":[{
+        "title": "The impact of AI on the future of work",
+        "category": "Technology",
+        "short_description": "AI is transforming the future of work by automating tasks, enhancing productivity, and creating new job opportunities, while also posing challenges in job displacement and skill adaptation.",
+        "date": "2022-01-01",
+        "time_text": "10 Min To Read",
+        "image": "/images/posts/post-1.png",
+        "link": "/blog/single"
+    },{
+        "title": "The rise of AI in healthcare and its potential impact on patient outcomes",
+        "category": "Healthcare",
+        "short_description": "AI is revolutionizing healthcare by enabling doctors to diagnose, treat, and monitor patients more efficiently, reducing costs and improving patient outcomes. As AI continues to advance, it's likely to have a significant impact on the future of healthcare.",
+        "date": "2022-02-01",
+        "time_text": "15 Min To Read",
+        "image": "/images/posts/post-2.png",
+        "link": "/blog/single"
+    },{
+        "title": "The impact of AI on the future of education",
+        "category": "Education",
+        "short_description": "AI is transforming education by enabling students to learn more effectively, faster, and with greater accuracy. As AI continues to advance, it's likely to have a significant impact on the future of education.",
+        "date": "2022-03-01",
+        "time_text": "20 Min To Read",
+        "image": "/images/posts/post-3.png",
+        "link": "/blog/single"
+    },{
+        "title": "The role of AI in the future of the workforce",
+        "category": "Workforce",
+        "short_description": "AI is revolutionizing the workforce by enabling employees to automate tasks, improve productivity, and create new job opportunities, while also posing challenges in job displacement and skill adaptation.",
+        "date": "2022-04-01",
+        "time_text": "15 Min To Read",
+        "image": "/images/posts/post-4.png",
+        "link": "/blog/single"
+    },{
+        "title": "The impact of AI on the future of finance",
+        "category": "Finance",
+        "short_description": "AI is transforming finance by enabling businesses to analyze data, predict market trends, and optimize their operations, while also posing challenges in job displacement and skill adaptation.",
+        "date": "2022-05-01",
+        "time_text": "25 Min To Read",
+        "image": "/images/posts/post-5.png",
+        "link": "/blog/single"
+    },{
+        "title": "The rise of AI in artificial intelligence and its potential impact on society",
+        "category": "Society",
+        "short_description": "AI is revolutionizing society by enabling people to interact with technology more easily, faster, and with greater accuracy. As AI continues to advance, it's likely to have a significant impact on the future of society.",
+        "date": "2022-06-01",
+        "time_text": "30 Min To Read",
+        "image": "/images/posts/post-6.png",
+        "link": "/blog/single"
+    }],
+    "category":[
+        "Technology",
+        "Healthcare",
+        "Education",
+        "Workforce",
+        "Finance",
+        "Society"
+    ],
+    "posts":[{
+        "title": "The impact of AI on the future of work",
+        "category": "Technology",
+        "short_description": "AI is transforming the future of work by automating tasks, enhancing productivity, and creating new job opportunities, while also posing challenges in job displacement and skill adaptation.",
+        "date": "2022-01-01",
+        "time_text": "10 Min To Read",
+        "image": "/images/posts/post-1.png",
+        "link": "/blog/single"
+    },{
+        "title": "The rise of AI in healthcare and its potential impact on patient outcomes",
+        "category": "Healthcare",
+        "short_description": "AI is revolutionizing healthcare by enabling doctors to diagnose, treat, and monitor patients more efficiently, reducing costs and improving patient outcomes. As AI continues to advance, it's likely to have a significant impact on the future of healthcare.",
+        "date": "2022-02-01",
+        "time_text": "15 Min To Read",
+        "image": "/images/posts/post-2.png",
+        "link": "/blog/single"
+    },{
+        "title": "The impact of AI on the future of education",
+        "category": "Education",
+        "short_description": "AI is transforming education by enabling students to learn more effectively, faster, and with greater accuracy. As AI continues to advance, it's likely to have a significant impact on the future of education.",
+        "date": "2022-03-01",
+        "time_text": "20 Min To Read",
+        "image": "/images/posts/post-3.png",
+        "link": "/blog/single"
+    },{
+        "title": "The role of AI in the future of the workforce",
+        "category": "Workforce",
+        "short_description": "AI is revolutionizing the workforce by enabling employees to automate tasks, improve productivity, and create new job opportunities, while also posing challenges in job displacement and skill adaptation.",
+        "date": "2022-04-01",
+        "time_text": "15 Min To Read",
+        "image": "/images/posts/post-4.png",
+        "link": "/blog/single"
+    },{
+        "title": "The impact of AI on the future of finance",
+        "category": "Finance",
+        "short_description": "AI is transforming finance by enabling businesses to analyze data, predict market trends, and optimize their operations, while also posing challenges in job displacement and skill adaptation.",
+        "date": "2022-05-01",
+        "time_text": "25 Min To Read",
+        "image": "/images/posts/post-5.png",
+        "link": "/blog/single"
+    },{
+        "title": "The rise of AI in artificial intelligence and its potential impact on society",
+        "category": "Society",
+        "short_description": "AI is revolutionizing society by enabling people to interact with technology more easily, faster, and with greater accuracy. As AI continues to advance, it's likely to have a significant impact on the future of society.",
+        "date": "2022-06-01",
+        "time_text": "30 Min To Read",
+        "image": "/images/posts/post-6.png",
+        "link": "/blog/single"
+    },{
+        "title": "The impact of AI on the future of work",
+        "category": "Technology",
+        "short_description": "AI is transforming the future of work by automating tasks, enhancing productivity, and creating new job opportunities, while also posing challenges in job displacement and skill adaptation.",
+        "date": "2022-01-01",
+        "time_text": "10 Min To Read",
+        "image": "/images/posts/post-7.png",
+        "link": "/blog/single"
+    },{
+        "title": "The rise of AI in healthcare and its potential impact on patient outcomes",
+        "category": "Healthcare",
+        "short_description": "AI is revolutionizing healthcare by enabling doctors to diagnose, treat, and monitor patients more efficiently, reducing costs and improving patient outcomes. As AI continues to advance, it's likely to have a significant impact on the future of healthcare.",
+        "date": "2022-02-01",
+        "time_text": "15 Min To Read",
+        "image": "/images/posts/post-8.png",
+        "link": "/blog/single"
+    },{
+        "title": "The impact of AI on the future of education",
+        "category": "Education",
+        "short_description": "AI is transforming education by enabling students to learn more effectively, faster, and with greater accuracy. As AI continues to advance, it's likely to have a significant impact on the future of education.",
+        "date": "2022-03-01",
+        "time_text": "20 Min To Read",
+        "image": "/images/posts/post-9.png",
+        "link": "/blog/single"
+    }],
+    "categories":[{
+        "name": "All Categories",
+        "link": "#"
+    },{
+        "name": "Technology",
+        "link": "#"
+    },{
+        "name": "Healthcare",
+        "link": "#"
+    },{
+        "name": "Education",
+        "link": "#"
+    },{
+        "name": "Workforce",
+        "link": "#"
+    }]
+}
