@@ -18,8 +18,8 @@ const BlogCard: React.FC<BlogCardProps> = React.memo(function BlogCard({ title, 
             <div className="card">
                 <img
                     className="card-img"
-                    width={featured_post ? "235" : '335'}
-                    height={featured_post ? "304" : '210'}
+                    width={featured_post ? 235 : 335}
+                    height={featured_post ? 304 : 210}
                     src={image}
                     alt={title}
                 />
