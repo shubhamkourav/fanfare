@@ -2,6 +2,7 @@ import React from 'react'
 import blog from '@config/pages/blogs/single-blog.json'
 import moment from 'moment'
 import Comments from './Comments'
+import CommentForm from './CommentForm'
 export default function Single() {
     const { title, image, author, time_text, date, content } = blog
     return (
@@ -28,6 +29,7 @@ export default function Single() {
                         </div>
                         <div className="content" dangerouslySetInnerHTML={{ __html: content }} />
                         <Comments />
+                        <CommentForm/>
                     </div>
                 </div>
             </div>
