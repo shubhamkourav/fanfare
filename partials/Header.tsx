@@ -1,13 +1,27 @@
 "use client"
 import Image from 'next/image'
 import Link from 'next/link'
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import menu from "@config/menu.json";
 import { usePathname } from 'next/navigation';
 
 export default function Header() {
+    const [activeNav, setActiveName] = useState('home');
     const { main } = menu
     const path = usePathname()
+
+    useEffect(() => {
+        if (path === '/') {
+            setActiveName('home')
+        } else {
+            main.forEach(item => {
+                if (path.includes(item.id)) {
+                    setActiveName(item.id)
+                }
+            })
+        }
+    }, [path, main])
+    
     return (
         <header className="header">
             <nav className="navbar container">
@@ -67,7 +81,7 @@ export default function Header() {
 
                         } else {
                             return <li key={item.id} className="nav-item">
-                                <Link href={item.url || '#'} className={`nav-link ${path === item.url ? 'active' : ''}`}>{item.name}</Link>
+                                <Link href={item.url || '#'} className={`nav-link ${item.id === activeNav ? 'active' : ''}`}>{item.name}</Link>
                             </li>
                         }
                     })}

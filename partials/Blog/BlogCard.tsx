@@ -1,4 +1,5 @@
 import moment from 'moment';
+import Link from 'next/link';
 import React from 'react'
 
 type BlogCardProps = {
@@ -28,7 +29,7 @@ const BlogCard: React.FC<BlogCardProps> = React.memo(function BlogCard({ title, 
                         <a className="tag" href="#">{category}</a>
                     </div> : null}
                     <h3 className="h4 card-title">
-                        <a href={link}>{title}</a>
+                        <Link href={link}>{title}</Link>
                     </h3>
                     <p>
                         {short_description}

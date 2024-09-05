@@ -10,9 +10,9 @@ export default function Footer() {
         <footer className="footer bg-theme-light/50">
             <div className="container">
                 <div className="row gx-5 pb-10 pt-[52px]">
-                    <div className="col-12 mt-12 md:col-6 lg:col-3">
+                    <div className="col-12 lg:mt-12 mt-5 md:col-6 lg:col-3">
                         <Link href="/">
-                            <img src="images/logo.svg" alt={site.title} />
+                            <img src="/images/logo.svg" className='lg:align-middle align-baseline scale-75 lg:scale-90 ' alt={site.title} />
                         </Link>
                         <p className="mt-6">
                             {site.description}
