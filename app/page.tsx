@@ -1,4 +1,4 @@
-import Action from "@partials/Home/Action";
+import Action from "@partials/components/Action";
 import Banner from "@partials/Home/Banner";
 import Features from "@partials/Home/Features";
 import Reviews from "@partials/Home/Reviews";

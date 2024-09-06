@@ -6,7 +6,7 @@ import menu from "@config/menu.json";
 import { usePathname } from 'next/navigation';
 
 export default function Header() {
-    const [activeNav, setActiveName] = useState('home');
+    const [activeNav, setActiveName] = useState('');
     const { main } = menu
     const path = usePathname()
 

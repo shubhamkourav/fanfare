@@ -1,0 +1,93 @@
+{
+  "common": {
+    "banner": {
+      "src": "/images/features-banner-img.png",
+      "width": 412,
+      "height": 483,
+      "alt": "Features banner"
+    },
+    "title": "Connects with all your other tools to create a smooth experience.",
+    "description": "Effortlessly integrates with all your tools, ensuring smooth and efficient workflows. Designed to enhance productivity by providing a seamless, connected experience.",
+    "button": {
+      "text": "Contact Us",
+      "link": "https://github.com/shubhamkourav"
+    }
+  },
+  "collaboration": {
+    "title": "Build collaborative workspaces for your team",
+    "description": "Create collaborative workspaces that empower your team to work together efficiently. Foster teamwork and streamline communication for enhanced productivity.",
+    "managers": [
+      {
+        "image": "/images/avatar-1.png"
+      },
+      {
+        "image": "/images/avatar-2.png"
+      },
+      {
+        "image": "/images/avatar-3.png"
+      },
+      {
+        "image": "/images/avatar-4.png"
+      }
+    ],
+    "features": [
+      {
+        "title": "Boost engagement",
+        "description": "Increase engagement and drive interaction effortlessly",
+        "icon": "/images/icons/design.svg"
+      },
+      {
+        "title": "Streamline workflows",
+        "description": "Automate repetitive tasks and enhance efficiency",
+        "icon": "/images/icons/quote.svg"
+      },
+      {
+        "title": "Improve collaboration",
+        "description": "Facilitate seamless collaboration across different tools",
+        "icon": "/images/icons/devops.svg"
+      }
+    ],
+    "feature_btn": {
+      "text": "Learn more",
+      "link": "/"
+    },
+    "payment_feature": {
+      "device_payment": {
+        "title": "Accept payments from devices many country",
+        "description": "Effortlessly accept payments from any country in the world, enabling global transactions without boundaries",
+        "image": "/images/features/feature-img-1.png"
+      },
+      "features": [
+        "Open transaction with more than currencies",
+        "Instantly receive payments",
+        "Accept payments from any country",
+        "Pay with ease and convenience"
+      ],
+      "primary_btn":{
+        "text": "Contact Us",
+        "link": "https://github.com/shubhamkourav"
+      },
+      "secondary_btn":{
+        "text": "Learn more",
+        "link": "/"
+      }
+    },
+    "payment_gateway":{
+        "title": "Payment gateway for every stage of your business growth",
+        "image": "/images/features/feature-img-2.png",
+        "features":[{
+            "title": "Accept payments from devices many country",
+            "description": "Effortlessly accept payments from any country in the world, enabling global transactions without boundaries",
+            "image": "/images/features/feature-img-2.png"
+        },{
+            "title": "Open transaction with more than currencies",
+            "description": "Accept payments from any country in the world, enabling global transactions without boundaries",
+            "image": "/images/features/feature-img-1.png"
+        },{
+            "title": "Instantly receive payments",
+            "description": "Accept payments from any country in the world, enabling global transactions without boundaries",
+            "image": "/images/features/feature-img-2.png"
+        }]
+    }
+  }
+}
