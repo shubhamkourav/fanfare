@@ -1,0 +1,42 @@
+{
+  "common": {
+    "title": "Get’n touch with Our"
+  },
+  "form": [
+    {
+        "id": "name",
+        "type": "text",
+        "label": "Full Name",
+        "placeholder": "Your Full Name",
+        "required": true
+    },
+    {
+        "label": "Email",
+        "type": "email",
+        "id": "email",
+        "placeholder": "Your Email",
+        "required": true
+    },
+    {
+        "label": "Phone",
+        "type": "tel",
+        "id": "phone",
+        "placeholder": "Your Phone Number",
+        "required": true
+    },
+    {
+        "label": "Message",
+        "id": "message",
+        "type": "textarea",
+        "placeholder": "Your Message",
+        "cols": 30,
+        "rows": 10,
+        "required": true
+    },
+    {
+        "id": "submit",
+        "type": "button",
+        "label": "Submit"
+    }
+  ]
+}
