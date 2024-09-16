@@ -20,6 +20,7 @@
     "baseUrl": ".",
     "paths": {
       "@config/*": ["config/*"],
+      "@layouts/*": ["partials/layouts/*"],
       "@partials/*": ["partials/*"],
       "@utils/*": ["utils/*"],
     }

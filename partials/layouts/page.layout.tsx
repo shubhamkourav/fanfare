@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BlogLayout({
+export default function Layout({
     children,
 }: Readonly<{
     children: React.ReactNode;
