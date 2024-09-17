@@ -22,6 +22,8 @@ export default function Header() {
         }
     }, [path, main])
     
+    if (path.includes('auth')) return <></>
+    
     return (
         <header className="header">
             <nav className="navbar container">
@@ -87,7 +89,7 @@ export default function Header() {
                     })}
                 </ul>
                 <div className="order-1 ml-auto hidden items-center md:order-2 md:ml-0 lg:flex">
-                    <Link className="btn btn-white btn-sm" href="/signup">Sign Up Now</Link>
+                    <Link className="btn btn-white btn-sm" href="/auth/signup">Sign Up Now</Link>
                 </div>
             </nav>
         </header>

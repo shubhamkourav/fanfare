@@ -70,7 +70,7 @@
       "id": "signup",
       "name": "Sign In Now",
       "type": "button",
-      "url": "/signin"
+      "url": "/auth/signin"
     }
   ],
   "footer": {

@@ -1,11 +1,17 @@
+"use client";
+
 import Link from 'next/link'
 import React from 'react'
 import menu from "@config/menu.json";
 import config from "@config/config.json";
+import { usePathname } from 'next/navigation';
 
 export default function Footer() {
     const { site } = config
-    const { footer } = menu
+    const { footer } = menu // TODO:- implementation is pending
+    const path = usePathname()
+
+    if (path.includes('auth')) return <></>
     return (
         <footer className="footer bg-theme-light/50">
             <div className="container">
