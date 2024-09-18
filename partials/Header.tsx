@@ -12,18 +12,27 @@ export default function Header() {
 
     useEffect(() => {
         if (path === '/') {
-            setActiveName('home')
-        } else {
-            main.forEach(item => {
-                if (path.includes(item.id)) {
-                    setActiveName(item.id)
-                }
-            })
+            setActiveName('home');
+            return;
         }
-    }, [path, main])
-    
+
+        const pathSegments = path.split('/');
+        const subMenuId = pathSegments[pathSegments.length - 1];
+
+        const activeItem = main.find(item => path.includes(item.id));
+
+        if (activeItem) {
+            if (activeItem.sub_menu?.length) {
+                const subMenu = activeItem.sub_menu.find(sub => sub.id === subMenuId);
+                setActiveName(subMenu ? `${activeItem.id}:${subMenu.id}` : activeItem.id);
+            } else {
+                setActiveName(activeItem.id);
+            }
+        }
+    }, [path, main]);
+
     if (path.includes('auth')) return <></>
-    
+
     return (
         <header className="header">
             <nav className="navbar container">
@@ -59,7 +68,7 @@ export default function Header() {
                     {main.map((item) => {
                         if (item.sub_menu?.length) {
                             return <li key={item.id} className='nav-item nav-dropdown group relative'>
-                                <span className="nav-link inline-flex items-center sub-menu">
+                                <span className={`nav-link ${activeNav.split(":")[0] === item.id ? 'active' : ''} inline-flex items-center sub-menu`}>
                                     {item.name}
                                     <svg className="h-4 w-4 fill-current" viewBox="0 0 20 20">
                                         <path
@@ -70,7 +79,7 @@ export default function Header() {
                                 <ul className='nav-dropdown-list hidden group-hover:block lg:invisible lg:absolute lg:block lg:opacity-0 lg:group-hover:visible lg:group-hover:opacity-100'>
                                     {item.sub_menu.map((menu) => {
                                         return <li key={menu.id} className="nav-dropdown-item">
-                                            <Link className='nav-dropdown-link' href={menu.url || '#'}>{menu.name}</Link>
+                                            <Link className={`nav-dropdown-link ${activeNav.split(":")[1] === menu.id ? 'active' : ''}`} href={`${item.url}${menu.url}` || '#'}>{menu.name}</Link>
                                         </li>
                                     })}
                                 </ul>

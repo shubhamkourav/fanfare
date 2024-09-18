@@ -1,0 +1,568 @@
+{
+  "title": "Open positions",
+  "description": "We are always looking for talented individuals to join our team.",
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior Frontend Developer",
+      "location": "San Francisco, CA",
+      "type": "Full-time",
+      "deadline": "June 30, 2023",
+      "description": "Develop high-quality, responsive web applications in a fast-paced environment. You'll work with modern frameworks like React and be responsible for optimizing performance.",
+      "category": "Developer",
+      "details": [
+        {
+          "label": "About Role",
+          "text": "Build efficient web applications with a focus on user experience. A solid understanding of HTML, CSS, and JavaScript is required."
+        },
+        {
+          "label": "Responsibilities",
+          "text": "Implement new features and improve the application UI/UX. Collaborate with the backend team for seamless integration."
+        },
+        {
+          "label": "Qualifications",
+          "text": "Expert in modern frontend frameworks like React or Angular, with strong experience in performance optimization."
+        },
+        {
+          "label": "Skills",
+          "text": "Experience with React or Vue.js, Git, and testing frameworks like Jest."
+        },
+        {
+          "label": "Experience",
+          "text": "5+ years of experience in front-end development."
+        },
+        {
+          "label": "Education",
+          "text": "Bachelor's degree in computer science or a related field."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Junior Frontend Developer",
+      "location": "New York, NY",
+      "type": "Full-time",
+      "deadline": "July 15, 2023",
+      "description": "Join a dynamic team to develop responsive web apps using JavaScript frameworks. Gain experience working on high-impact projects.",
+      "category": "Developer",
+      "details": [
+        {
+          "label": "About Role",
+          "text": "Work closely with senior developers to create high-quality front-end solutions using React or Angular."
+        },
+        {
+          "label": "Responsibilities",
+          "text": "Assist in implementing new features and maintaining existing ones. Ensure compatibility across devices."
+        },
+        {
+          "label": "Qualifications",
+          "text": "Experience with HTML, CSS, JavaScript, and at least one modern frontend framework."
+        },
+        {
+          "label": "Skills",
+          "text": "Proficiency in HTML, CSS, and JavaScript. Familiarity with Git and CI/CD pipelines."
+        },
+        {
+          "label": "Experience",
+          "text": "1-2 years of front-end development experience."
+        },
+        {
+          "label": "Education",
+          "text": "Bachelor's degree in software engineering or equivalent."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Full Stack Developer",
+      "location": "Austin, TX",
+      "type": "Full-time",
+      "deadline": "August 1, 2023",
+      "description": "Work on both front-end and back-end development to create robust and scalable web applications.",
+      "category": "Developer",
+      "details": [
+        {
+          "label": "About Role",
+          "text": "Develop and maintain both client-side and server-side code. Expertise in React and Node.js is required."
+        },
+        {
+          "label": "Responsibilities",
+          "text": "Collaborate with cross-functional teams to deliver full-stack solutions."
+        },
+        {
+          "label": "Qualifications",
+          "text": "Proficiency in JavaScript frameworks and back-end technologies like Node.js."
+        },
+        {
+          "label": "Skills",
+          "text": "Experience with React, Node.js, and MongoDB."
+        },
+        {
+          "label": "Experience",
+          "text": "3-5 years of experience in full-stack development."
+        },
+        {
+          "label": "Education",
+          "text": "Bachelor's degree in computer science or related field."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "React Developer",
+      "location": "Los Angeles, CA",
+      "type": "Part-time",
+      "deadline": "September 10, 2023",
+      "description": "Specialize in developing single-page applications using React. You will work on both client and internal projects.",
+      "category": "Developer",
+      "details": [
+        {
+          "label": "About Role",
+          "text": "Build interactive UI components using React. Ensure code quality and performance."
+        },
+        {
+          "label": "Responsibilities",
+          "text": "Develop scalable and maintainable React applications. Optimize application performance."
+        },
+        {
+          "label": "Qualifications",
+          "text": "Strong experience with React and Redux. Familiarity with RESTful APIs."
+        },
+        {
+          "label": "Skills",
+          "text": "Experience with React, Redux, and version control systems like Git."
+        },
+        {
+          "label": "Experience",
+          "text": "2+ years of React development experience."
+        },
+        {
+          "label": "Education",
+          "text": "Bachelor's degree in computer science preferred."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Angular Developer",
+      "location": "Chicago, IL",
+      "type": "Contract",
+      "deadline": "July 20, 2023",
+      "description": "Develop dynamic, data-driven web applications using Angular. You'll be part of an innovative team building cutting-edge applications.",
+      "category": "Developer",
+      "details": [
+        {
+          "label": "About Role",
+          "text": "Create high-performance, scalable web apps using Angular."
+        },
+        {
+          "label": "Responsibilities",
+          "text": "Design and develop dynamic web applications using Angular."
+        },
+        {
+          "label": "Qualifications",
+          "text": "Expert in Angular and TypeScript with experience in RESTful API integration."
+        },
+        {
+          "label": "Skills",
+          "text": "Proficiency in Angular, TypeScript, and HTML/CSS."
+        },
+        {
+          "label": "Experience",
+          "text": "3+ years of experience working with Angular."
+        },
+        {
+          "label": "Education",
+          "text": "Bachelor's degree in a technical field."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Vue.js Developer",
+      "location": "Remote",
+      "type": "Full-time",
+      "deadline": "October 1, 2023",
+      "description": "Develop modern web applications using Vue.js. Collaborate with the team to create user-friendly interfaces.",
+      "category": "Developer",
+      "details": [
+        {
+          "label": "About Role",
+          "text": "Specialize in building front-end web applications using Vue.js."
+        },
+        {
+          "label": "Responsibilities",
+          "text": "Work closely with designers to implement responsive and interactive features."
+        },
+        {
+          "label": "Qualifications",
+          "text": "Proficient in Vue.js, JavaScript, and web technologies like HTML and CSS."
+        },
+        {
+          "label": "Skills",
+          "text": "Experience with Vue.js and Git. Understanding of web performance optimization."
+        },
+        {
+          "label": "Experience",
+          "text": "2+ years of Vue.js experience."
+        },
+        {
+          "label": "Education",
+          "text": "Degree in computer science or equivalent experience."
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Lead Frontend Developer",
+      "location": "Miami, FL",
+      "type": "Full-time",
+      "deadline": "July 30, 2023",
+      "description": "Lead a team of developers to build and maintain web applications. Guide technical decisions and ensure best practices are followed.",
+      "category": "Developer",
+      "details": [
+        {
+          "label": "About Role",
+          "text": "Lead the development of high-quality, scalable web applications using modern front-end technologies."
+        },
+        {
+          "label": "Responsibilities",
+          "text": "Oversee a team of developers, conduct code reviews, and provide mentorship."
+        },
+        {
+          "label": "Qualifications",
+          "text": "Strong leadership skills with experience in React or Angular."
+        },
+        {
+          "label": "Skills",
+          "text": "Proficiency in front-end frameworks like React, along with strong problem-solving abilities."
+        },
+        {
+          "label": "Experience",
+          "text": "7+ years of front-end development experience."
+        },
+        {
+          "label": "Education",
+          "text": "Bachelor's degree in software engineering or related field."
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "React Native Developer",
+      "location": "Remote",
+      "type": "Contract",
+      "deadline": "August 15, 2023",
+      "description": "Develop cross-platform mobile applications using React Native. You'll work with both iOS and Android platforms.",
+      "category": "Developer",
+      "details": [
+        {
+          "label": "About Role",
+          "text": "Create and maintain mobile applications using React Native. Work with cross-functional teams to deliver mobile solutions."
+        },
+        {
+          "label": "Responsibilities",
+          "text": "Build and optimize React Native applications for iOS and Android platforms."
+        },
+        {
+          "label": "Qualifications",
+          "text": "Experience with React Native, mobile development, and integration with back-end services."
+        },
+        {
+          "label": "Skills",
+          "text": "Proficiency in React Native and mobile platform best practices."
+        },
+        {
+          "label": "Experience",
+          "text": "3+ years of React Native development experience."
+        },
+        {
+          "label": "Education",
+          "text": "Bachelor's degree in computer science or equivalent experience."
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Frontend Engineer",
+      "location": "Seattle, WA",
+      "type": "Full-time",
+      "deadline": "September 5, 2023",
+      "description": "Collaborate with a team of engineers to create efficient and scalable web applications using modern JavaScript frameworks.",
+      "category": "Developer",
+      "details": [
+        {
+          "label": "About Role",
+          "text": "Work on building and optimizing front-end systems using React or Vue.js."
+        },
+        {
+          "label": "Responsibilities",
+          "text": "Collaborate with the product and design teams to deliver engaging user experiences."
+        },
+        {
+          "label": "Qualifications",
+          "text": "Expertise in front-end technologies, with a focus on React and performance optimization."
+        },
+        {
+          "label": "Skills",
+          "text": "Strong knowledge of React or Vue.js, and experience with state management libraries."
+        },
+        {
+          "label": "Experience",
+          "text": "4+ years of experience in front-end development."
+        },
+        {
+          "label": "Education",
+          "text": "Bachelor's degree in a technical discipline."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Backend Developer",
+      "location": "Boston, MA",
+      "type": "Full-time",
+      "deadline": "August 25, 2023",
+      "description": "Develop and maintain back-end services and APIs using Node.js. Collaborate with front-end developers to integrate services efficiently.",
+      "category": "Developer",
+      "details": [
+        {
+          "label": "About Role",
+          "text": "Design, develop, and maintain back-end systems that power web applications."
+        },
+        {
+          "label": "Responsibilities",
+          "text": "Build APIs and ensure data flow between the front-end and server."
+        },
+        {
+          "label": "Qualifications",
+          "text": "Proficiency in Node.js, Express, and database management."
+        },
+        {
+          "label": "Skills",
+          "text": "Experience with RESTful APIs, MongoDB, and server-side performance optimization."
+        },
+        {
+          "label": "Experience",
+          "text": "3+ years of back-end development experience."
+        },
+        {
+          "label": "Education",
+          "text": "Bachelor's degree in computer science or related field."
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Mobile Developer",
+      "location": "Denver, CO",
+      "type": "Full-time",
+      "deadline": "August 10, 2023",
+      "description": "Develop mobile applications for iOS and Android platforms. Ensure a seamless user experience across devices.",
+      "category": "Developer",
+      "details": [
+        {
+          "label": "About Role",
+          "text": "Develop cross-platform mobile apps with a focus on performance and scalability."
+        },
+        {
+          "label": "Responsibilities",
+          "text": "Work on mobile application features and optimize for different devices."
+        },
+        {
+          "label": "Qualifications",
+          "text": "Experience with React Native or native iOS/Android development."
+        },
+        {
+          "label": "Skills",
+          "text": "Proficiency in mobile development best practices and RESTful APIs."
+        },
+        {
+          "label": "Experience",
+          "text": "2+ years of mobile development experience."
+        },
+        {
+          "label": "Education",
+          "text": "Degree in computer science or related field."
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Junior Full Stack Developer",
+      "location": "Dallas, TX",
+      "type": "Full-time",
+      "deadline": "July 31, 2023",
+      "description": "Contribute to both front-end and back-end development of web applications. Work with senior developers to gain experience in full-stack development.",
+      "category": "Developer",
+      "details": [
+        {
+          "label": "About Role",
+          "text": "Assist in developing and maintaining both front-end and back-end components of web applications."
+        },
+        {
+          "label": "Responsibilities",
+          "text": "Work with senior engineers to deliver robust full-stack solutions."
+        },
+        {
+          "label": "Qualifications",
+          "text": "Experience with JavaScript, Node.js, and either React or Angular."
+        },
+        {
+          "label": "Skills",
+          "text": "Understanding of full-stack development using JavaScript technologies."
+        },
+        {
+          "label": "Experience",
+          "text": "1+ years of full-stack development experience."
+        },
+        {
+          "label": "Education",
+          "text": "Bachelor's degree or equivalent experience."
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "UI/UX Designer",
+      "location": "Phoenix, AZ",
+      "type": "Full-time",
+      "deadline": "August 20, 2023",
+      "description": "Design intuitive and user-friendly interfaces for web and mobile applications. Collaborate closely with developers to bring designs to life.",
+      "category": "Designer",
+      "details": [
+        {
+          "label": "About Role",
+          "text": "Work on creating visually appealing and functional interfaces for both web and mobile apps."
+        },
+        {
+          "label": "Responsibilities",
+          "text": "Design user interfaces and collaborate with developers to ensure a smooth user experience."
+        },
+        {
+          "label": "Qualifications",
+          "text": "Proficiency in design tools like Figma, Sketch, or Adobe XD."
+        },
+        {
+          "label": "Skills",
+          "text": "Strong visual design skills and a keen eye for detail."
+        },
+        {
+          "label": "Experience",
+          "text": "2+ years of experience in UI/UX design."
+        },
+        {
+          "label": "Education",
+          "text": "Degree in design or a related field."
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "DevOps Engineer",
+      "location": "San Diego, CA",
+      "type": "Full-time",
+      "deadline": "August 28, 2023",
+      "description": "Manage and optimize CI/CD pipelines and infrastructure for scalable web applications. Ensure smooth deployment and continuous integration.",
+      "category": "Engineer",
+      "details": [
+        {
+          "label": "About Role",
+          "text": "Build and maintain infrastructure to support development and deployment pipelines."
+        },
+        {
+          "label": "Responsibilities",
+          "text": "Implement CI/CD processes and manage cloud infrastructure."
+        },
+        {
+          "label": "Qualifications",
+          "text": "Experience with cloud platforms like AWS or Azure, and containerization tools like Docker."
+        },
+        {
+          "label": "Skills",
+          "text": "Proficiency in DevOps tools and infrastructure management."
+        },
+        {
+          "label": "Experience",
+          "text": "3+ years of experience in DevOps engineering."
+        },
+        {
+          "label": "Education",
+          "text": "Bachelor's degree in computer science or related field."
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Senior Backend Developer",
+      "location": "Las Vegas, NV",
+      "type": "Full-time",
+      "deadline": "September 15, 2023",
+      "description": "Lead back-end development efforts, ensuring scalable and secure server-side code. Collaborate with front-end teams to deliver seamless solutions.",
+      "category": "Developer",
+      "details": [
+        {
+          "label": "About Role",
+          "text": "Oversee backend development with a focus on building scalable APIs and managing databases."
+        },
+        {
+          "label": "Responsibilities",
+          "text": "Develop and maintain server-side logic, APIs, and databases."
+        },
+        {
+          "label": "Qualifications",
+          "text": "Experience with Node.js, databases like MongoDB or PostgreSQL, and API development."
+        },
+        {
+          "label": "Skills",
+          "text": "Proficiency in server-side programming and API design."
+        },
+        {
+          "label": "Experience",
+          "text": "5+ years of back-end development experience."
+        },
+        {
+          "label": "Education",
+          "text": "Bachelor's degree in computer science or a related field."
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Frontend Developer",
+      "location": "Portland, OR",
+      "type": "Full-time",
+      "deadline": "September 30, 2023",
+      "description": "Build modern, interactive web applications using React. Work in a collaborative environment and follow best practices for front-end development.",
+      "category": "Developer",
+      "details": [
+        {
+          "label": "About Role",
+          "text": "Develop and maintain front-end codebases with a focus on scalability and performance."
+        },
+        {
+          "label": "Responsibilities",
+          "text": "Work with a team to implement UI components and ensure code quality."
+       
+  
+   },
+        {
+          "label": "Qualifications",
+          "text": "Proficient in React, HTML/CSS, and JavaScript with a focus on performance."
+        },
+        {
+          "label": "Skills",
+          "text": "Experience with React, Redux, and version control systems."
+        },
+        {
+          "label": "Experience",
+          "text": "3+ years of front-end development experience."
+        },
+        {
+          "label": "Education",
+          "text": "Bachelor's degree in computer science or related field."
+        }
+      ]
+    }
+  ]
+}

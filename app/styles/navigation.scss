@@ -63,6 +63,9 @@ input#nav-toggle:checked~#nav-menu {
 
 .nav-dropdown-link {
     @apply min-w-[150px] py-1 text-sm font-medium text-dark transition hover:text-primary;
+    &.active {
+        @apply text-primary;
+    }
 }
 
 .sub-menu:hover {

@@ -397,7 +397,7 @@
   }
   
   .filter-btn {
-    @apply m-3 rounded-3xl border border-[#A9A9A9] text-dark;
+    @apply m-3 rounded-3xl border border-[#A9A9A9] text-dark cursor-pointer;
   
     &-active, &.active {
       @apply border-white bg-white text-dark shadow-[0px_10px_20px_rgba(0,0,0,0.05)];

@@ -28,6 +28,7 @@
     {
       "id": "services",
       "name": "Services",
+      "url": "/services",
       "sub_menu": [
         {
           "id": "career",

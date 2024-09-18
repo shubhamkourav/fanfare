@@ -10,7 +10,7 @@ type CategoryProps = {
 }
 const Category: React.FC<CategoryProps> = ({ name, link, isActive = false, onActive }) => {
     return <li onClick={onActive}>
-        <a className={`filter-btn btn btn-sm ${isActive ? 'filter-btn-active' : ''}`} href={link}>{name}</a>
+        <span className={`filter-btn btn btn-sm ${isActive ? 'filter-btn-active' : ''}`} >{name}</span>
     </li>
 }
 export default function Categories() {

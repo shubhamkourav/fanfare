@@ -1,0 +1,43 @@
+{
+    "title": "Career In",
+    "description": "Discover the best opportunities in the industry. Apply now.",
+    "banner":{
+        "primary":{
+            "alt": "Join our team",
+            "image": "/images/career/career-hero-img-1.png"
+        },
+        "secondary":{
+            "alt": "Apply for a job",
+            "image": "/images/career/career-hero-img-2.png"
+        }
+    },
+    "benefits":{
+        "title": "Competitive benefits",
+        "description": "We offer competitive salaries, negotiable benefits, and flexible work hours.",
+        "list":[{
+            "title": "Competitive salary",
+            "description": "Competitive salaries with a generous bonus package.",
+            "icon": "/images/career/icon-1.png"
+        },{
+            "title": "Flexible work hours",
+            "description": "Flexible work hours to accommodate your schedule and make the most of your time.",
+            "icon": "/images/career/icon-4.png"
+        },{
+            "title": "Negotiable benefits",
+            "description": "Negotiable benefits such as health insurance, dental insurance, and vision insurance.",
+            "icon": "/images/career/icon-5.png"
+        },{
+            "title": "Career development",
+            "description": "Access to training, development opportunities, and career counseling.",
+            "icon": "/images/career/icon-6.png"
+        },{
+            "title": "Work-life balance",
+            "description": "Enjoy a healthy work-life balance, with regular breaks and opportunities for personal growth.",
+            "icon": "/images/career/icon-2.png"
+        },{
+            "title": "Employee benefits",
+            "description": "Access to employee benefits such as retirement, savings, and healthcare.",
+            "icon": "/images/career/icon-3.png"
+        }]
+    }
+}
