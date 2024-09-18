@@ -3,6 +3,7 @@ import React, { useMemo } from 'react'
 import potions from '@config/pages/services/career/position.json';
 import Common from '@partials/Career/Single/Common';
 import Post from '@partials/Career/Single/Post';
+import Layout from '@layouts/page.layout';
 export default function page({ params }: { params: { id: string } }) {
 
     const { jobs } = potions;
@@ -14,9 +15,9 @@ export default function page({ params }: { params: { id: string } }) {
         
     },[job, jobs])
     return (
-        <>
+        <Layout>
             <Common title={job?.title} />
             <Post {...job} relatedJobs={relatedJobs} />
-        </>
+        </Layout>
     )
 }
