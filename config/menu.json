@@ -36,19 +36,9 @@
           "url": "/career"
         },
         {
-          "id": "career-single",
-          "name": "Career Single",
-          "url": "/career-single"
-        },
-        {
           "id": "integrations",
           "name": "Integrations",
           "url": "/integrations"
-        },
-        {
-          "id": "integration-single",
-          "name": "Integration Single",
-          "url": "/integration-single"
         },
         {
           "id": "pricing",

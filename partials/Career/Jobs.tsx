@@ -8,7 +8,6 @@ import { usePathname } from 'next/navigation';
 export default function Jobs() {
   const [category, setCategory] = useState<String | null>(null);
   const path = usePathname();
-  console.log("🚀 ~ Jobs ~ path:", path)
 
   const { jobs } = potions;
   const categories = useMemo(() => {
