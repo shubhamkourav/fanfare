@@ -1,0 +1,204 @@
+{
+  "title": "How To Integrate With",
+  "description": "Integrate with Fanfare by using its API to automate content sharing and engagement across platforms.",
+  "services": [
+    {
+      "id": "facebook",
+      "name": "Facebook",
+      "description": "Facebook is a social media platform that allows users to connect, share, and communicate with friends and the public.",
+      "url": "https://www.facebook.com/",
+      "type": "Social Media",
+      "icon": "/images/integration/facebook.svg",
+      "details": [
+        {
+          "title": "Setup",
+          "description": "To set up Facebook, you need to create a free account using your email address or phone number. You can customize your profile with personal details, profile pictures, and privacy settings."
+        },
+        {
+          "title": "How to Setup",
+          "description": "Go to https://www.facebook.com/ and click 'Create New Account'. Fill in your personal details like name, email, and password. Verify your account and adjust your privacy settings as needed."
+        },
+        {
+          "title": "Support",
+          "description": "Facebook provides 24/7 support through its Help Center at https://www.facebook.com/help/. You can find FAQs, troubleshooting, and contact support options."
+        }
+      ]
+    },
+    {
+      "id": "twitter",
+      "name": "Twitter",
+      "description": "Twitter is a social media platform for sharing short messages known as tweets and engaging with followers.",
+      "url": "https://twitter.com/",
+      "type": "Social Media",
+      "icon": "/images/integration/twitter.svg",
+      "details": [
+        {
+          "title": "Setup",
+          "description": "Create a Twitter account with your email or phone number and choose a username. You can customize your profile and start tweeting after completing registration."
+        },
+        {
+          "title": "How to Setup",
+          "description": "Visit https://twitter.com/, click 'Sign up', and provide your phone number or email. Follow the prompts to verify your account, set up a profile picture, and customize your bio."
+        },
+        {
+          "title": "Support",
+          "description": "Twitter support is available via the Twitter Help Center at https://help.twitter.com/. It offers troubleshooting guides and options to report issues."
+        }
+      ]
+    },
+    {
+      "id": "linkedin",
+      "name": "LinkedIn",
+      "description": "LinkedIn is a professional networking platform used for career development and job searches.",
+      "url": "https://www.linkedin.com/",
+      "type": "Social Media",
+      "icon": "/images/integration/linkedin.svg",
+      "details": [
+        {
+          "title": "Setup",
+          "description": "LinkedIn requires setting up a profile that highlights your career history, education, and professional skills. It's primarily used for professional networking and job searching."
+        },
+        {
+          "title": "How to Setup",
+          "description": "Go to https://www.linkedin.com/ and click 'Join now'. Enter your personal and professional information like work experience, skills, and education to create a profile."
+        },
+        {
+          "title": "Support",
+          "description": "Support is available through the LinkedIn Help Center at https://www.linkedin.com/help/. You can get assistance with account setup, privacy, and job searches."
+        }
+      ]
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "description": "YouTube is a video-sharing platform where users can upload, view, and share videos.",
+      "url": "https://www.youtube.com/",
+      "type": "Streaming",
+      "icon": "/images/integration/youtube.svg",
+      "details": [
+        {
+          "title": "Setup",
+          "description": "A YouTube account is automatically created if you have a Google account. Once signed in, you can upload videos, create playlists, and subscribe to channels."
+        },
+        {
+          "title": "How to Setup",
+          "description": "Sign in to https://www.youtube.com/ with your Google account. To create a channel, click on the profile icon and choose 'Create a channel' from the menu. Customize it with your details."
+        },
+        {
+          "title": "Support",
+          "description": "YouTube provides support through their Help Center at https://support.google.com/youtube/. You can find articles on account management, video uploads, and content guidelines."
+        }
+      ]
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "description": "Netflix is a streaming service offering a wide variety of TV shows, movies, and original programming.",
+      "url": "https://www.netflix.com/",
+      "type": "Streaming",
+      "icon": "/images/integration/netflix.svg",
+      "details": [
+        {
+          "title": "Setup",
+          "description": "To access Netflix, create an account using your email and select a subscription plan. You can stream content across devices after account verification."
+        },
+        {
+          "title": "How to Setup",
+          "description": "Visit https://www.netflix.com/ and sign up with your email. Select a subscription plan, enter payment information, and start streaming content on any device."
+        },
+        {
+          "title": "Support",
+          "description": "Netflix offers support via their Help Center at https://help.netflix.com/ and provides 24/7 live chat and phone support."
+        }
+      ]
+    },
+    {
+      "id": "spotify",
+      "name": "Spotify",
+      "description": "Spotify is a digital music streaming service offering access to millions of songs and podcasts.",
+      "url": "https://www.spotify.com/",
+      "type": "Streaming",
+      "icon": "/images/integration/spotify.svg",
+      "details": [
+        {
+          "title": "Setup",
+          "description": "Create a free or premium Spotify account using your email or social media account. Access streaming content across mobile and desktop apps."
+        },
+        {
+          "title": "How to Setup",
+          "description": "Go to https://www.spotify.com/ and click 'Sign up'. Choose between free or premium plans, then log in using the app or web player."
+        },
+        {
+          "title": "Support",
+          "description": "Spotify provides help through their Support Center at https://support.spotify.com/. You can access FAQs or contact customer support."
+        }
+      ]
+    },
+    {
+      "id": "slack",
+      "name": "Slack",
+      "description": "Slack is a collaboration tool that allows teams to communicate and manage tasks efficiently.",
+      "url": "https://slack.com/",
+      "type": "Productivity",
+      "icon": "/images/integration/slack.svg",
+      "details": [
+        {
+          "title": "Setup",
+          "description": "Create a workspace for your team and invite members to join. Set up channels to organize communication based on projects, departments, or topics."
+        },
+        {
+          "title": "How to Setup",
+          "description": "Visit https://slack.com/ and click 'Get Started'. Sign up with your work email, create a workspace, and invite team members to collaborate."
+        },
+        {
+          "title": "Support",
+          "description": "Slack offers detailed guides and support through their Help Center at https://slack.com/help/. You can access help articles or reach out to their support team."
+        }
+      ]
+    },
+    {
+      "id": "trello",
+      "name": "Trello",
+      "description": "Trello is a project management tool that helps teams organize tasks and collaborate effectively.",
+      "url": "https://trello.com/",
+      "type": "Productivity",
+      "icon": "/images/integration/trello.svg",
+      "details": [
+        {
+          "title": "Setup",
+          "description": "Create a free Trello account and organize your work using boards, lists, and cards. Invite team members to collaborate on tasks and manage projects."
+        },
+        {
+          "title": "How to Setup",
+          "description": "Visit https://trello.com/ and sign up. Start by creating a new board for a project, add tasks as cards, and assign them to team members."
+        },
+        {
+          "title": "Support",
+          "description": "Trello provides support through their Help Center at https://help.trello.com/ where users can find tutorials and FAQs."
+        }
+      ]
+    },
+    {
+      "id": "zoom",
+      "name": "Zoom",
+      "description": "Zoom is a video conferencing platform used for online meetings, webinars, and virtual collaboration.",
+      "url": "https://zoom.us/",
+      "type": "Productivity",
+      "icon": "/images/integration/zoom.svg",
+      "details": [
+        {
+          "title": "Setup",
+          "description": "Create a Zoom account and download the app on your device to host or join meetings. Set up recurring meetings and enable security settings like passwords."
+        },
+        {
+          "title": "How to Setup",
+          "description": "Go to https://zoom.us/ and sign up with your email. After verification, download the Zoom app and start hosting meetings or webinars."
+        },
+        {
+          "title": "Support",
+          "description": "Zoom offers a comprehensive Help Center at https://support.zoom.us/. They provide video tutorials, live chat, and 24/7 support options."
+        }
+      ]
+    }
+  ]
+}
