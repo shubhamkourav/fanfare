@@ -3,7 +3,6 @@ import React from 'react'
 
 
 export default function IntegrationTabs({ tabItems, activeTab, onChangeTab }: IntegrationTabsProps) {
-    console.log("🚀 ~ IntegrationTabs ~ tabItems:", tabItems,activeTab)
     return (
         <div className="row justify-center">
             <div className="lg:col-10">
