@@ -46,6 +46,11 @@
           "url": "/pricing"
         },
         {
+          "id": "changelogs",
+          "name": "Changelogs",
+          "url": "/changelogs"
+        },
+        {
           "id": "terms-conditions",
           "name": "Terms & Conditions",
           "url": "/terms-conditions"

@@ -1,0 +1,81 @@
+{
+    "title": "Changelogs",
+    "logs":[
+        {
+          "version": "1.2.0",
+          "date": "2024-09-19",
+          "changes": [
+            {
+              "type": "added",
+              "color": "green-400",
+              "description": [
+                "Introduced new Pro and Enterprise pricing plans with extended features.",
+                "Added support for role-based access control in the Enterprise plan.",
+                "Introduced team collaboration tools in the Enterprise plan.",
+                "Added multi-user access and custom integrations to Pro plan.",
+                "Pricing plan descriptions and target audience fields."
+              ]
+            },
+            {
+              "type": "changed",
+              "color": "yellow-400",
+              "description": [
+                "Improved pricing plan feature details for better clarity.",
+                "Optimized the backend query structure for faster plan retrieval."
+              ]
+            },
+            {
+              "type": "fixed",
+              "color": "rose-400",
+              "description": [
+                "Resolved an issue with the API response time on pricing plans.",
+                "Fixed a bug causing incorrect plan pricing display on mobile devices."
+              ]
+            }
+          ]
+        },
+        {
+          "version": "1.1.0",
+          "date": "2024-08-15",
+          "changes": [
+            {
+              "type": "added",
+              "color": "green-400",
+              "description": [
+                "Introduced basic pricing plan with community access and manual backups.",
+                "Added custom branding options to Pro and Enterprise plans."
+              ]
+            },
+            {
+              "type": "changed",
+              "color": "yellow-400",
+              "description": [
+                "Updated API access limits for all pricing plans."
+              ]
+            },
+            {
+              "type": "fixed",
+              "color": "rose-400",
+              "description": [
+                "Fixed minor UI issues in the pricing page."
+              ]
+            }
+          ]
+        },
+        {
+          "version": "1.0.0",
+          "date": "2024-07-01",
+          "changes": [
+            {
+              "type": "added",
+              "color": "green-400",
+              "description": [
+                "Initial release of pricing plans: Basic, Pro, and Enterprise.",
+                "Implemented email support and basic analytics for Basic plan.",
+                "Included priority support and advanced analytics for Pro plan."
+              ]
+            }
+          ]
+        }
+      ]
+}

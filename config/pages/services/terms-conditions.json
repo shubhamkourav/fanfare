@@ -48,7 +48,7 @@
         },
         {
           "title": "Privacy and Data Collection",
-          "content": "<p>By using Fanfare, you agree to our <a href='/privacy-policy'>Privacy Policy</a>. We collect, store, and process your personal information in accordance with applicable data protection laws. You have the right to access and control your data as outlined in our Privacy Policy.</p>"
+          "content": "<p>By using Fanfare, you agree to our <a href='/terms-conditions'>Privacy Policy</a>. We collect, store, and process your personal information in accordance with applicable data protection laws. You have the right to access and control your data as outlined in our Privacy Policy.</p>"
         },
         {
           "title": "Third-Party Links and Services",
@@ -64,7 +64,7 @@
         },
         {
           "title": "Contact Information",
-          "content": "<p>If you have any questions about these Terms and Conditions, please contact us at <a href='mailto:support@fanfare.com'>support@fanfare.com</a> or visit our <a href='/contact-us'>Contact Us</a> page.</p>"
+          "content": "<p>If you have any questions about these Terms and Conditions, please contact us at <a href='mailto:support@fanfare.com'>support@fanfare.com</a> or visit our <a href='/contact'>Contact Us</a> page.</p>"
         }
       ]
 }

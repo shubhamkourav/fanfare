@@ -86,7 +86,10 @@ const config: Config = {
     }),
   ],
   safelist: ['blockquote', 'text-2xl', 'text-dark', 'relative', 'absolute', 'my-10', 'rounded-xl', 'bg-white', 'py-8', 'px-16', 'lg:px-20', {
-    pattern: /^(text)-(blue|green|yellow|rose)-(400|500|900)$/i,
+
+    pattern: /^(text|bg)-(blue|green|yellow|rose)-(400|500|900)$/i,
+
+    
   }]
 };
 export default config;
