@@ -1,0 +1,22 @@
+{
+    "title": "Frequently Asked Questions",
+    "description": "Fanfare's FAQs cover various topics related to using its API, integrating with social media platforms, and setting up your account.",
+
+    "questions": [
+        {
+            "question": "What is the best way to integrate Fanfare with my social media platforms?",
+            "answer": "To integrate Fanfare with your social media platforms, you can follow these steps: \n 1. Create a Fanfare account by signing up for a free account at https://fanfare.app. 2. Connect your social media accounts to Fanfare by entering your username and password. 3. Customize your Fanfare profile by adding your profile picture, bio, and other desired settings. 4. Start sharing content on your social media platforms using the Fanfare integration feature."
+        },{
+            "question": "How do I set up a custom Fanfare profile?",
+            "answer": "To set up a custom Fanfare profile, follow these steps: \n 1. Log in to your Fanfare account. 2. Click on your profile picture in the top right corner of the screen. 3. Click 'Edit profile' and customize your profile picture, bio, and other desired settings. 4. Save your changes."
+        },{
+            "question": "Can I use Fanfare to share content on my own social media platforms?",
+            "answer": "Yes, you can use Fanfare to share content on your own social media platforms. To do this, follow these steps: \n 1. Log in to your Fanfare account. 2. Click on the 'Share' button in the top right corner of the screen. 3. Select the social media platform you want to share content on. 4. Enter the content you want to share, and optionally add additional details such as tags, images, and videos. 5. Click 'Share' to post the content to your social media platform."
+        },{
+            "question": "How can I customize the appearance and layout of my Fanfare posts?",
+            "answer": "To customize the appearance and layout of your Fanfare posts, follow these steps: \n 1. Log in to your Fanfare account. 2. Click on the 'Settings' button in the top right corner of the screen. 3. Click 'Fanfare' in the left sidebar. 4. Click 'Edit appearance' and customize the appearance of your Fanfare posts by selecting the desired theme, font, and color scheme. 5. Click 'Save' to save your changes."
+        },{
+            "question": "How do I delete or archive my Fanfare posts?",
+            "answer": "To delete or archive your Fanfare posts, follow these steps: \n 1. Log in to your Fanfare account. 2. Click on the 'Settings' button in the top right corner of the screen. 3. Click 'Fanfare' in the left sidebar. 4. Click on the 'Posts' tab. 5. Select the posts you want to delete or archive. 6. Click 'Delete' or 'Archive' to permanently remove or archive the selected posts."
+        }]
+}

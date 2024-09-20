@@ -1,0 +1,67 @@
+{
+    "title": "Pricing",
+    "description": "offers various pricing plans to help you choose the right solution for your needs.",
+    "plans": [
+    {
+      "id": "basic-plan",
+      "name": "Basic",
+      "price": 19.99,
+      "currency": "USD",
+      "icon": "/images/icons/price-card-icon-1.svg",
+      "description": "A starter plan for individuals or small teams to manage a few projects with essential features.",
+      "targetAudience": "Freelancers and small teams",
+      "features": [
+        "5 projects",
+        "10GB storage",
+        "Email support",
+        "Basic analytics",
+        "Community access",
+        "Basic security features",
+        "Single user access",
+        "Manual backups",
+        "Limited API access",
+        "Standard speed"
+      ]
+    },
+    {
+      "id": "pro-plan",
+      "name": "Pro",
+      "price": 49.99,
+      "currency": "USD",
+      "icon": "/images/icons/price-card-icon-2.svg",
+      "description": "Ideal for growing businesses and teams that need more storage, advanced analytics, and priority support.",
+      "targetAudience": "Small to medium businesses",
+      "features": [
+        "Unlimited projects",
+        "100GB storage",
+        "Priority email support",
+        "Advanced analytics",
+        "Custom integrations",
+        "Multi-user access",
+        "Enhanced security features",
+        "Daily backups",
+        "24/7 customer support"
+      ]
+    },
+    {
+      "id": "enterprise-plan",
+      "name": "Enterprise",
+      "price": 99.99,
+      "currency": "USD",
+      "icon": "/images/icons/price-card-icon-3.svg",
+      "description": "A comprehensive plan for large organizations requiring robust collaboration, enterprise-grade security, and personalized support.",
+      "targetAudience": "Large enterprises and corporations",
+      "features": [
+        "Unlimited projects",
+        "1TB storage",
+        "Dedicated support",
+        "Advanced analytics",
+        "Custom integrations",
+        "Team collaboration tools",
+        "Role-based access control",
+        "Enterprise-grade security",
+        "24/7 customer support"
+      ]
+    }
+  ]
+}
