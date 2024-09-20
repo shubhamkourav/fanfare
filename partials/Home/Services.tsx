@@ -24,6 +24,7 @@ export default function Services() {
                                         <img
                                             className="w-full object-contain"
                                             src={service.image}
+                                            alt={service.text}
                                         />
                                     </div>
                                 )
